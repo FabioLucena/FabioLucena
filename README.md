@@ -1,5 +1,9 @@
-### Hi there 👋
+## Olá! 👋
+### Me encontra também aqui! :point_right: [Linkedin][identifier]
+[identifier]: https://www.linkedin.com/in/fabio-lucena-de-oliveira/
 
+Sou um desenvolvedor, fazendo um bootcamp Full Stack nesta mesma área na Labenu, desenvolvendo muitas habilidades em projetos individuais e em grupo, habilidades essas como em React, criação e consumo de APIs, HTML, CSS, etc...
+Estou cursando engenharia Elétrica, uma área de meu interesse e que abre muitas possibilidades de aprofundamento depois, incluindo como desenvolvedor. Tenho experiência no setor administrativo, com criação de planilhas, rotinas e processos, mas pelo fato de gostar de tecnologia, hardware e programação, que conheci na faculdade de engenharia, decidi fazer essa transição de carreira para ser desenvolvedor
 <!--
 **FabioLucena/FabioLucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
