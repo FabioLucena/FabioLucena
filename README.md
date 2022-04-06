@@ -1,5 +1,5 @@
 ## Olá! 👋
-### Me encontra também aqui! :point_right: [Linkedin][identifier]
+### Me encontre também aqui! :point_right: [Linkedin][identifier]
 [identifier]: https://www.linkedin.com/in/fabio-lucena-de-oliveira/
 
 Sou um desenvolvedor, fazendo um bootcamp Full Stack nesta mesma área na Labenu, desenvolvendo muitas habilidades em projetos individuais e em grupo, habilidades essas como em React, criação e consumo de APIs, HTML, CSS, etc...
